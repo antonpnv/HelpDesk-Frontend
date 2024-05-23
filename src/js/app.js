@@ -1,5 +1,6 @@
 /* eslint-disable no-use-before-define */
 /* eslint-disable no-param-reassign */
+
 import { formatedDate } from './formatedDate';
 
 document.addEventListener('DOMContentLoaded', () => {
